@@ -1,5 +1,5 @@
 # 基于vue的掘金网 项目模拟
-
+> 项目会持续优化代码结构
 ## Build Setup
 ``` bash
 # install dependencies
